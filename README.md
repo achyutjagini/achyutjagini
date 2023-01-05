@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/achyutjagini" target="blank"><img src="https://img.shields.io/twitter/follow/achyutjagini?logo=twitter&style=for-the-badge" alt="achyutjagini" /></a> </p>
 
-- 🌱 I’m currently learning **Data structures,Algorithms**
+- 🌱 I’m currently learning **Machine learning,Web Development,Cloud computing**
 
-- 👯 I’m looking to collaborate on **Data science**
+- 👯 I’m looking to collaborate on **ReactJS,Docker**
 
 - 💬 Ask me about **Python,C,Data structures,Database,Big data,Spark,Kafka**
 
