@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJS,Docker**
 
-- 💬 Ask me about **Python,C,Data structures,Database,Big data,Spark,Kafka**
+- 💬 Ask me about **Python,C,Machine learning,Web development,Database,Spark,Kafka**
 
 - 📫 How to reach me **achyut.jagini@gmail.com**
 
