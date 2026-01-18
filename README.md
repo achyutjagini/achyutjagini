@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **AI agents,Cloud computing**
 
-- 💬 Ask me about **Python,C,Web development,Database,Spark,Kafka**
+- 💬 Ask me about **Python,ML,C++,Web development,Database,Spark,Kafka**
 
 - 📫 How to reach me **achyut.jagini@gmail.com**
 
