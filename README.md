@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achyut Jagini</h1>
-<h3 align="center">A passionate developer from Bangalore,India</h3>
+<h3 align="center">A passionate developer from Stockholm,Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achyutjagini&label=Profile%20views&color=0e75b6&style=flat" alt="achyutjagini" /> </p>
 
